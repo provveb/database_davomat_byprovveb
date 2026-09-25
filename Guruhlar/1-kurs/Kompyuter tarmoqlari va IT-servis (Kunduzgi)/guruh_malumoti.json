@@ -1,12 +1,12 @@
 {
-  "id": "6b7c006e-43e7-4ecf-9817-4c5abf1f4f80",
-  "nomi": "2",
+  "id": "ac7cf9e9-f79b-4cf8-9b00-cc80831582ad",
+  "nomi": "Kompyuter tarmoqlari va IT-servis (Kunduzgi)",
   "kurs": 1,
-  "sinfRahbariIsmi": "test name ",
-  "sinfRahbariTelefon": "+998906659909",
-  "qrToken": "6fa770bb-e15b-4210-9f3d-25156397620c",
+  "sinfRahbariIsmi": "1",
+  "sinfRahbariTelefon": "",
+  "qrToken": "ffb0f62d-62e6-4b55-b97c-40e44f9e7cca",
   "qrCodeImageUrl": "https://raw.githubusercontent.com/provveb/database_davomat_byprovveb/main/Images/Guruhlar/1-kurs/Kompyuter tarmoqlari va IT-servis (Kunduzgi)/qr_Kompyuter tarmoqlari va IT-servis (Kunduzgi).png",
   "otaOnalarChatId": "",
-  "yaratilganSana": "2026-09-24T17:13:27.153Z",
+  "yaratilganSana": "2026-09-25T15:47:53.299Z",
   "faolmi": true
 }
