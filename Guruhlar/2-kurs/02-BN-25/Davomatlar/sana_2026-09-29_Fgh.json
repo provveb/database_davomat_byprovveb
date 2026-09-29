@@ -6,10 +6,10 @@
   "darsRaqami": 1,
   "sana": "2026-09-29T04:35:39.370Z",
   "boshlanganVaqt": "2026-09-29T04:35:39.370Z",
-  "yakunlanganVaqt": null,
-  "holat": "JARAYONDA",
-  "rasmlar": "[]",
-  "telegramMessageIds": null,
+  "yakunlanganVaqt": "2026-09-29T04:36:12.095Z",
+  "holat": "YAKUNLANDI",
+  "rasmlar": "[\"https://raw.githubusercontent.com/provveb/database_davomat_byprovveb/main/Images/Davomatlar/1c988ea1-77cf-496c-b598-d424df79cf43.jpg\",\"https://raw.githubusercontent.com/provveb/database_davomat_byprovveb/main/Images/Davomatlar/559bfdb5-daa9-48af-a06d-2d3993706c03.jpg\",\"https://raw.githubusercontent.com/provveb/database_davomat_byprovveb/main/Images/Davomatlar/27618544-2a9b-4124-8724-764369aa64a6.jpg\",\"https://raw.githubusercontent.com/provveb/database_davomat_byprovveb/main/Images/Davomatlar/01689650-191a-4c9d-96cf-5d353f86e5e0.jpg\",\"https://raw.githubusercontent.com/provveb/database_davomat_byprovveb/main/Images/Davomatlar/cb412bdc-8561-46cd-acc6-1c1ba46196e9.jpg\"]",
+  "telegramMessageIds": "[{\"chatId\":\"8143625648\",\"messageIds\":[1945,1946,1947,1948,1949,1950]},{\"chatId\":\"624165322\",\"messageIds\":[1951,1952,1953,1954,1955,1956]},{\"chatId\":\"6791735260\",\"messageIds\":[1957,1958,1959,1960,1961,1962]},{\"chatId\":\"8197301287\",\"messageIds\":[1963,1964,1965,1966,1967,1968]}]",
   "created_at": "2026-09-29T04:35:39.370Z",
   "records": [
     {
