@@ -1,0 +1,184 @@
+{
+  "id": "8b8fa28e-85cf-4880-b521-9b6fdc0eb248",
+  "groupId": "e4c77606-c59a-4ad6-8503-cd9f91b1cc9d",
+  "teacherId": "5d5e2487-5597-48ae-8c3b-4b78b9638057",
+  "fanNomi": "Gg",
+  "darsRaqami": 1,
+  "sana": "2026-09-29T05:57:59.559Z",
+  "boshlanganVaqt": "2026-09-29T05:57:59.559Z",
+  "yakunlanganVaqt": "2026-09-29T05:58:14.686Z",
+  "holat": "YAKUNLANDI",
+  "rasmlar": "[\"https://raw.githubusercontent.com/provveb/database_davomat_byprovveb/main/Images/Davomatlar/a84f90d5-deb6-4efb-bdc6-4a8c3b85a52d.jpg\"]",
+  "telegramMessageIds": "[{\"chatId\":\"8143625648\",\"messageIds\":[2071,2072]},{\"chatId\":\"624165322\",\"messageIds\":[2073,2074]},{\"chatId\":\"6791735260\",\"messageIds\":[2075,2076]},{\"chatId\":\"448211157\",\"messageIds\":[2077,2078]},{\"chatId\":\"8197301287\",\"messageIds\":[2079,2080]}]",
+  "created_at": "2026-09-29T05:57:59.559Z",
+  "records": [
+    {
+      "id": "8b625051-dc84-46b5-bad4-2019d98f0c23",
+      "sessionId": "8b8fa28e-85cf-4880-b521-9b6fdc0eb248",
+      "studentId": "109a1c68-15b6-4763-bf90-3f7262138ceb",
+      "holat": "BOR"
+    },
+    {
+      "id": "3fd751cb-3f33-428c-a003-6be812fba38b",
+      "sessionId": "8b8fa28e-85cf-4880-b521-9b6fdc0eb248",
+      "studentId": "1b66c6cf-a646-4a13-be74-4ecf172f4fc3",
+      "holat": "BOR"
+    },
+    {
+      "id": "510f0982-2980-42aa-a5d2-171303cc32a7",
+      "sessionId": "8b8fa28e-85cf-4880-b521-9b6fdc0eb248",
+      "studentId": "1f30b75d-be8c-4014-b95f-d4311123b807",
+      "holat": "BOR"
+    },
+    {
+      "id": "8e3d8c2a-af9a-4bf0-9ef3-c843df333980",
+      "sessionId": "8b8fa28e-85cf-4880-b521-9b6fdc0eb248",
+      "studentId": "2410f9ee-6b49-4d34-b2aa-e578adbb424d",
+      "holat": "BOR"
+    },
+    {
+      "id": "d33a47ba-dfdb-4e63-8a60-692e2841544f",
+      "sessionId": "8b8fa28e-85cf-4880-b521-9b6fdc0eb248",
+      "studentId": "24c0cdab-09aa-44e2-b553-a2a6ab9d9f4b",
+      "holat": "BOR"
+    },
+    {
+      "id": "8ba5824a-79fe-4100-86fc-f766af5d15be",
+      "sessionId": "8b8fa28e-85cf-4880-b521-9b6fdc0eb248",
+      "studentId": "289ab89a-bbf8-4c6f-b8f1-64e94a9e79b7",
+      "holat": "BOR"
+    },
+    {
+      "id": "94459d6d-ad32-4c8a-8070-deecbd234799",
+      "sessionId": "8b8fa28e-85cf-4880-b521-9b6fdc0eb248",
+      "studentId": "2a09fb1f-3d8b-40ea-8a40-864cf23ec9e1",
+      "holat": "BOR"
+    },
+    {
+      "id": "4c1e8766-4a41-4ac7-a05a-cdfe824d8b8c",
+      "sessionId": "8b8fa28e-85cf-4880-b521-9b6fdc0eb248",
+      "studentId": "3bb711c6-d22d-4fd2-8598-926d3f07a314",
+      "holat": "YOQ"
+    },
+    {
+      "id": "6f8cd396-6f38-4aff-9501-776215157790",
+      "sessionId": "8b8fa28e-85cf-4880-b521-9b6fdc0eb248",
+      "studentId": "401fea59-dac1-4ef4-be75-117cdfd65bec",
+      "holat": "BOR"
+    },
+    {
+      "id": "ab11673f-dafa-4fee-b463-8c644cfe0383",
+      "sessionId": "8b8fa28e-85cf-4880-b521-9b6fdc0eb248",
+      "studentId": "4a1f30bd-c484-42de-a220-b1c1158607df",
+      "holat": "BOR"
+    },
+    {
+      "id": "6273f809-f3dc-43de-b624-5742fffb91dc",
+      "sessionId": "8b8fa28e-85cf-4880-b521-9b6fdc0eb248",
+      "studentId": "4a50abe2-51cb-42c6-8fa9-545ff515be76",
+      "holat": "BOR"
+    },
+    {
+      "id": "abb38408-8862-44c6-a112-435053a299ca",
+      "sessionId": "8b8fa28e-85cf-4880-b521-9b6fdc0eb248",
+      "studentId": "572a2c96-f19f-4797-89f7-7355268fc03d",
+      "holat": "BOR"
+    },
+    {
+      "id": "82acd2b9-4220-41ba-a21d-075c992c8f4c",
+      "sessionId": "8b8fa28e-85cf-4880-b521-9b6fdc0eb248",
+      "studentId": "59c73d42-f3e1-4b09-b93b-d9430a2ed129",
+      "holat": "BOR"
+    },
+    {
+      "id": "c2565826-51d2-4eb3-86ab-4841e29fd477",
+      "sessionId": "8b8fa28e-85cf-4880-b521-9b6fdc0eb248",
+      "studentId": "62e6f3d9-dd75-4aff-92b7-9576c30e5940",
+      "holat": "BOR"
+    },
+    {
+      "id": "293a69a4-af05-4ba5-95f3-a98848e25663",
+      "sessionId": "8b8fa28e-85cf-4880-b521-9b6fdc0eb248",
+      "studentId": "66c1b1bb-8874-456c-992e-8f42610c3824",
+      "holat": "BOR"
+    },
+    {
+      "id": "c99401f7-76c2-4e03-8412-875325784254",
+      "sessionId": "8b8fa28e-85cf-4880-b521-9b6fdc0eb248",
+      "studentId": "675a6c63-a3be-47aa-8045-4f97f527c359",
+      "holat": "BOR"
+    },
+    {
+      "id": "ecf17bfd-17ef-4933-952b-7f6fc75f6d29",
+      "sessionId": "8b8fa28e-85cf-4880-b521-9b6fdc0eb248",
+      "studentId": "6f44335f-c866-4695-b7ac-31d0fe29c769",
+      "holat": "BOR"
+    },
+    {
+      "id": "d782b5f0-af26-4405-bfac-7641b5e55ee3",
+      "sessionId": "8b8fa28e-85cf-4880-b521-9b6fdc0eb248",
+      "studentId": "8138ce13-4fc1-4c08-bc01-d971687fda3c",
+      "holat": "BOR"
+    },
+    {
+      "id": "af58107c-632e-44b8-aa21-c5af48e83ee4",
+      "sessionId": "8b8fa28e-85cf-4880-b521-9b6fdc0eb248",
+      "studentId": "8e36b3b3-6a5d-4f6c-b443-2396b135f0d9",
+      "holat": "BOR"
+    },
+    {
+      "id": "283bb722-ccbb-47dc-a4a8-9a0c107678f0",
+      "sessionId": "8b8fa28e-85cf-4880-b521-9b6fdc0eb248",
+      "studentId": "9e87092b-dd6c-48fe-acd5-c47d895cff67",
+      "holat": "BOR"
+    },
+    {
+      "id": "9a064f4c-e9ec-4b09-8f71-3e5eb6bc817f",
+      "sessionId": "8b8fa28e-85cf-4880-b521-9b6fdc0eb248",
+      "studentId": "b366caf0-b293-4103-ada4-6dad254ff7f1",
+      "holat": "BOR"
+    },
+    {
+      "id": "ff5b3aea-2f14-47b1-9737-16e2a505a4b2",
+      "sessionId": "8b8fa28e-85cf-4880-b521-9b6fdc0eb248",
+      "studentId": "bfd68d54-7bcb-4403-ab5e-14985c87d7fe",
+      "holat": "BOR"
+    },
+    {
+      "id": "0d09180a-a32e-4443-9246-3d8bf5a8fd5b",
+      "sessionId": "8b8fa28e-85cf-4880-b521-9b6fdc0eb248",
+      "studentId": "c7226eb4-d169-4373-813c-533af9b05671",
+      "holat": "BOR"
+    },
+    {
+      "id": "e99826e9-c61b-4561-8589-c0e79b6bb493",
+      "sessionId": "8b8fa28e-85cf-4880-b521-9b6fdc0eb248",
+      "studentId": "c9ac5bae-37c7-4595-a3d1-741ac4fe6183",
+      "holat": "BOR"
+    },
+    {
+      "id": "f0456c51-65c3-4403-9f6b-64454a6959c6",
+      "sessionId": "8b8fa28e-85cf-4880-b521-9b6fdc0eb248",
+      "studentId": "d24ddfa1-8a0a-4f40-9e7e-a34147512892",
+      "holat": "YOQ"
+    },
+    {
+      "id": "859b94d0-2f23-4817-98bc-c82e4de96c91",
+      "sessionId": "8b8fa28e-85cf-4880-b521-9b6fdc0eb248",
+      "studentId": "dd0eb64b-10e3-4339-9b51-3ee1067e3d36",
+      "holat": "BOR"
+    },
+    {
+      "id": "8ce6f8a5-6117-4c36-91ab-74cc8c8524f7",
+      "sessionId": "8b8fa28e-85cf-4880-b521-9b6fdc0eb248",
+      "studentId": "e56ec205-6c94-4002-833d-d5c02da78d43",
+      "holat": "BOR"
+    },
+    {
+      "id": "7afd579f-9349-4ba1-82e0-b6d20054bb49",
+      "sessionId": "8b8fa28e-85cf-4880-b521-9b6fdc0eb248",
+      "studentId": "eaeb61f6-4a40-4a55-8ba1-33f7378fefbe",
+      "holat": "BOR"
+    }
+  ]
+}
