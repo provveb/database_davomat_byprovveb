@@ -1,0 +1,184 @@
+{
+  "id": "f3749ac4-0ce6-4738-87a1-4b1f91f6a244",
+  "groupId": "02be6542-278f-4e8c-b14c-a07f65acbf6a",
+  "teacherId": "b60776e3-860c-4287-86e2-4ce5de41835e",
+  "fanNomi": "Axbarot texnologiyalari asoslari",
+  "darsRaqami": 1,
+  "sana": "2026-10-02T05:06:49.193Z",
+  "boshlanganVaqt": "2026-10-02T05:06:49.193Z",
+  "yakunlanganVaqt": null,
+  "holat": "JARAYONDA",
+  "rasmlar": "[]",
+  "telegramMessageIds": null,
+  "created_at": "2026-10-02T05:06:49.193Z",
+  "records": [
+    {
+      "id": "1bec0522-be76-42d7-bea3-f0e703907fe7",
+      "sessionId": "f3749ac4-0ce6-4738-87a1-4b1f91f6a244",
+      "studentId": "0004ed99-fbd8-4996-801f-4451dea5c642",
+      "holat": "BOR"
+    },
+    {
+      "id": "764a3d02-e635-4bc6-9276-6f1eafd0d490",
+      "sessionId": "f3749ac4-0ce6-4738-87a1-4b1f91f6a244",
+      "studentId": "07da1485-ea4d-4f10-b4bf-1817081a9b1b",
+      "holat": "BOR"
+    },
+    {
+      "id": "71cd3e53-b3e4-4182-9358-dea2a6744fa1",
+      "sessionId": "f3749ac4-0ce6-4738-87a1-4b1f91f6a244",
+      "studentId": "07dec8a8-30bb-4da1-8f00-00ae24beadef",
+      "holat": "BOR"
+    },
+    {
+      "id": "06767a7b-17d3-4830-b739-08b70068ccc4",
+      "sessionId": "f3749ac4-0ce6-4738-87a1-4b1f91f6a244",
+      "studentId": "0cf9b917-0e6d-4452-ad2d-fc909e41a9b9",
+      "holat": "BOR"
+    },
+    {
+      "id": "cf74820e-eebc-4d1c-b67d-07e4faf2f2de",
+      "sessionId": "f3749ac4-0ce6-4738-87a1-4b1f91f6a244",
+      "studentId": "1015a650-202a-4de1-a5c8-439a2e335a49",
+      "holat": "YOQ"
+    },
+    {
+      "id": "b865a5d3-8882-48fc-a350-6b2b0a2fd19b",
+      "sessionId": "f3749ac4-0ce6-4738-87a1-4b1f91f6a244",
+      "studentId": "1646108b-f6b7-4988-9e96-599e7f7ed805",
+      "holat": "YOQ"
+    },
+    {
+      "id": "2cf9d20b-c705-4d04-a7df-11133173caeb",
+      "sessionId": "f3749ac4-0ce6-4738-87a1-4b1f91f6a244",
+      "studentId": "193a03de-83a9-4b48-98cf-1eb9657fd82d",
+      "holat": "BOR"
+    },
+    {
+      "id": "fb28e4f4-25ca-491f-af32-0d8dc4c819b8",
+      "sessionId": "f3749ac4-0ce6-4738-87a1-4b1f91f6a244",
+      "studentId": "1c6da3b0-9adb-4a7d-b637-19f7ce600356",
+      "holat": "BOR"
+    },
+    {
+      "id": "4d73dfe6-6c71-4df0-94d9-d815027d2062",
+      "sessionId": "f3749ac4-0ce6-4738-87a1-4b1f91f6a244",
+      "studentId": "23a96e2c-4847-4762-aed3-80296ac76c3c",
+      "holat": "BOR"
+    },
+    {
+      "id": "b9dd883d-816e-405b-9556-2572db16f4f6",
+      "sessionId": "f3749ac4-0ce6-4738-87a1-4b1f91f6a244",
+      "studentId": "2ac442f3-dbf8-44ff-ae74-518b5639e9f8",
+      "holat": "BOR"
+    },
+    {
+      "id": "f727fe1c-93ce-447a-bc56-de8a9c27106c",
+      "sessionId": "f3749ac4-0ce6-4738-87a1-4b1f91f6a244",
+      "studentId": "31845596-68ce-4bf6-b252-2071c1d545ec",
+      "holat": "BOR"
+    },
+    {
+      "id": "1fc0d3e3-357c-4697-a3c8-0cb620eb0c6f",
+      "sessionId": "f3749ac4-0ce6-4738-87a1-4b1f91f6a244",
+      "studentId": "4fb46ac9-4acc-4eb0-a8fa-fe47a959c7ad",
+      "holat": "BOR"
+    },
+    {
+      "id": "51e7cec9-ad83-4e33-b6f0-874478fc56e2",
+      "sessionId": "f3749ac4-0ce6-4738-87a1-4b1f91f6a244",
+      "studentId": "4fc3b40b-1b46-4bc1-9ef0-53929009d6e4",
+      "holat": "BOR"
+    },
+    {
+      "id": "0b27a98f-8115-4a60-8b16-24be4d1ebde1",
+      "sessionId": "f3749ac4-0ce6-4738-87a1-4b1f91f6a244",
+      "studentId": "589f70c2-ac93-4d77-aef6-e7208e9d0d90",
+      "holat": "BOR"
+    },
+    {
+      "id": "cd8756e7-2847-4f9f-9dd8-84068db92b8a",
+      "sessionId": "f3749ac4-0ce6-4738-87a1-4b1f91f6a244",
+      "studentId": "716b762d-da9d-4ba6-857e-c020bc9ef605",
+      "holat": "BOR"
+    },
+    {
+      "id": "a07cfdd8-6008-4bc9-97fb-5a9b6bdf3723",
+      "sessionId": "f3749ac4-0ce6-4738-87a1-4b1f91f6a244",
+      "studentId": "73f4958d-40d3-4a1b-b8ae-839e2e60293b",
+      "holat": "BOR"
+    },
+    {
+      "id": "713ced7c-3333-435f-a6fd-569660ed292a",
+      "sessionId": "f3749ac4-0ce6-4738-87a1-4b1f91f6a244",
+      "studentId": "7d13f844-7b2f-4953-a10a-8365e9df10c4",
+      "holat": "BOR"
+    },
+    {
+      "id": "5405322d-5511-4785-a74a-62d9aadb9703",
+      "sessionId": "f3749ac4-0ce6-4738-87a1-4b1f91f6a244",
+      "studentId": "889eeacc-fd24-437e-846c-90c7dd6d5648",
+      "holat": "BOR"
+    },
+    {
+      "id": "dd012ab4-6a82-4082-a140-6abe4591bc11",
+      "sessionId": "f3749ac4-0ce6-4738-87a1-4b1f91f6a244",
+      "studentId": "957806ab-9032-4e15-9ac5-13edc82f458c",
+      "holat": "BOR"
+    },
+    {
+      "id": "36e0ae58-2a96-4be9-993e-6470564d01be",
+      "sessionId": "f3749ac4-0ce6-4738-87a1-4b1f91f6a244",
+      "studentId": "a0787d37-f075-4cdf-a2d2-118d24162813",
+      "holat": "BOR"
+    },
+    {
+      "id": "9f9f1f3c-8867-4063-898d-3d3d12c6ebb2",
+      "sessionId": "f3749ac4-0ce6-4738-87a1-4b1f91f6a244",
+      "studentId": "ae15c3c9-1a19-4e0f-adb5-278304e1a19f",
+      "holat": "BOR"
+    },
+    {
+      "id": "256d7d35-8903-4145-a23d-00b1022b5c6c",
+      "sessionId": "f3749ac4-0ce6-4738-87a1-4b1f91f6a244",
+      "studentId": "b1882994-b0b2-47c7-be2f-e8900ad68e80",
+      "holat": "BOR"
+    },
+    {
+      "id": "e1b35157-df90-4aa4-a6b4-2ffd1f135e2b",
+      "sessionId": "f3749ac4-0ce6-4738-87a1-4b1f91f6a244",
+      "studentId": "b2d45cbb-14df-4947-9763-c9925aa3e1b1",
+      "holat": "BOR"
+    },
+    {
+      "id": "0d06fd25-d7d3-426c-98ae-059ebef1e759",
+      "sessionId": "f3749ac4-0ce6-4738-87a1-4b1f91f6a244",
+      "studentId": "c2efb4d0-37d1-44b2-acae-dd85ed8e0db0",
+      "holat": "BOR"
+    },
+    {
+      "id": "878305d7-0b11-4825-a789-ecb14fcf240d",
+      "sessionId": "f3749ac4-0ce6-4738-87a1-4b1f91f6a244",
+      "studentId": "e0e18b35-dcc0-4df7-bad9-7647a7f8fd6b",
+      "holat": "BOR"
+    },
+    {
+      "id": "e9d96e85-af61-43d9-9ee9-11dcb9046669",
+      "sessionId": "f3749ac4-0ce6-4738-87a1-4b1f91f6a244",
+      "studentId": "e4d5898c-a250-43a6-a487-48a6b4756deb",
+      "holat": "BOR"
+    },
+    {
+      "id": "2d7ce31b-1287-4c1c-afa0-d0f29a367aa5",
+      "sessionId": "f3749ac4-0ce6-4738-87a1-4b1f91f6a244",
+      "studentId": "f17df9a8-5b33-4c54-9ba7-01387cbe54fa",
+      "holat": "BOR"
+    },
+    {
+      "id": "351dd5f4-d184-4f67-bf8b-e34cee612b5b",
+      "sessionId": "f3749ac4-0ce6-4738-87a1-4b1f91f6a244",
+      "studentId": "f94b02cc-005e-44ed-a974-1993ff672638",
+      "holat": "YOQ"
+    }
+  ]
+}
