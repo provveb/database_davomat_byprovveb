@@ -1,0 +1,13 @@
+{
+  "id": "8e51c634-ad1e-4855-8eb6-08cffe7f5b41",
+  "nomi": "01-IT-26",
+  "kurs": 1,
+  "sinfRahbariIsmi": "Salohitdinova Shahlo",
+  "sinfRahbariTelefon": "+998941223403",
+  "qrToken": "217c92a5-d44c-4941-96b7-2b31e13a5a1e",
+  "qrCodeImageUrl": "https://raw.githubusercontent.com/provveb/database_davomat_byprovveb/main/Images/Guruhlar/1-kurs/01-IT-26/qr_01-IT-26.png",
+  "yaratilganSana": "2026-09-25T20:24:34.379Z",
+  "faolmi": true,
+  "teacherId": "397f0ecd-ca74-4a7d-8759-8f3c416f8d88",
+  "telegramChatId": null
+}
