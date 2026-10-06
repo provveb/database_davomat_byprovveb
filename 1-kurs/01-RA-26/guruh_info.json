@@ -1,0 +1,13 @@
+{
+  "id": "02be6542-278f-4e8c-b14c-a07f65acbf6a",
+  "nomi": "01-RA-26",
+  "kurs": 1,
+  "sinfRahbariIsmi": "Шахина Шухратовна",
+  "sinfRahbariTelefon": "+998500541528",
+  "qrToken": "eb303936-f9c4-40ce-826f-32fef4c98159",
+  "qrCodeImageUrl": "https://raw.githubusercontent.com/provveb/database_davomat_byprovveb/main/Images/Guruhlar/1-kurs/01-RA-26/qr_01-RA-26.png",
+  "yaratilganSana": "2026-09-25T20:23:14.085Z",
+  "faolmi": true,
+  "teacherId": "4ef99f33-0df0-448e-bc1d-34d3f7a79636",
+  "telegramChatId": null
+}
