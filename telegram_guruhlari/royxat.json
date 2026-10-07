@@ -16,12 +16,28 @@
     "addedByTelegramIds": "[\"1221404823\"]"
   },
   {
+    "id": "9a5e5031-5162-4fc8-a744-5d9a1f95920e",
+    "chatId": "-1003488846282",
+    "title": "01-RA-25 guruh ota-onalar uchun guruh (Buxoro soliq texnikumi)",
+    "addedAt": "2026-10-07T07:24:05.576Z",
+    "active": true,
+    "addedByTelegramIds": "[\"1052574889\"]"
+  },
+  {
     "id": "5fea075e-705a-41b0-9d47-7903cd6185e7",
     "chatId": "-1002929233994",
     "title": "b/01-AT-25",
     "addedAt": "2026-10-06T19:21:59.035Z",
     "active": true,
     "addedByTelegramIds": "[]"
+  },
+  {
+    "id": "76469c47-5f32-4060-8af3-348fb65112d9",
+    "chatId": "-1003012594575",
+    "title": "b/01-RA-25",
+    "addedAt": "2026-10-07T07:24:56.655Z",
+    "active": true,
+    "addedByTelegramIds": "[\"1052574889\"]"
   },
   {
     "id": "e539cad1-9191-4f00-832b-0fa533079050",
