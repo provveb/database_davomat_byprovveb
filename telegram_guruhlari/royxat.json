@@ -1,16 +1,34 @@
 [
   {
+    "id": "00a32b9d-9f91-4423-83af-7c7640728d86",
+    "chatId": "-1004394720901",
+    "title": "01-BN-2026",
+    "addedAt": "2026-10-07T06:26:42.827Z",
+    "active": true,
+    "addedByTelegramIds": "[\"1221404823\"]"
+  },
+  {
+    "id": "cac52f1a-33a5-4c9f-9ce6-2f3d788675c8",
+    "chatId": "-1004374070949",
+    "title": "01-BN-2026 OTA ONALAR GURUHI",
+    "addedAt": "2026-10-07T06:25:34.709Z",
+    "active": true,
+    "addedByTelegramIds": "[\"1221404823\"]"
+  },
+  {
     "id": "5fea075e-705a-41b0-9d47-7903cd6185e7",
     "chatId": "-1002929233994",
     "title": "b/01-AT-25",
     "addedAt": "2026-10-06T19:21:59.035Z",
-    "active": true
+    "active": true,
+    "addedByTelegramIds": "[]"
   },
   {
     "id": "e539cad1-9191-4f00-832b-0fa533079050",
     "chatId": "-1004378801068",
     "title": "cr7army💀",
     "addedAt": "2026-10-06T19:44:20.843Z",
-    "active": true
+    "active": true,
+    "addedByTelegramIds": "[]"
   }
 ]
