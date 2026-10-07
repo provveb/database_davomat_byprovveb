@@ -1,0 +1,31 @@
+{
+  "d502f4f7260888df6751a7fd632ec6f7a32d39744051adefe71af8c0bd223802.db": [
+    "Davomat_OLD/data/prisma/dev.db"
+  ],
+  "f9356c20dc55468a748923c1ad76f1b9ce7024a58bbb025be26fa35171e1c43e.png": [
+    "Davomat_OLD/uploads/qr/2a23fa19-e6c6-411f-b03d-9cccb5d60753.png",
+    "Davomat_Server_Uchun_Toza/uploads/qr/2a23fa19-e6c6-411f-b03d-9cccb5d60753.png"
+  ],
+  "5531d845497263eb68025cbd5fc548736cb2e65dc6b3fa54f3c6e5b5448772ad.png": [
+    "Davomat_OLD/uploads/teachers/b807c136-4c8e-4406-afc0-01e5cb3734a5.png",
+    "Davomat_Server_Uchun_Toza/uploads/teachers/b807c136-4c8e-4406-afc0-01e5cb3734a5.png"
+  ],
+  "7837be07afbd0990fc0e987d4fb6cbfcd6ce02767fde9349ea9ddbaacc1999ce.db": [
+    "Davomat_Server_Uchun_Toza/data/prisma/dev.db"
+  ],
+  "bcab495ed5cf43fdb2eba53f3dd0fe9cf88cc775f2c6bca87cb4c80b1fc8a23a.png": [
+    "Davomat_Server_Uchun_Toza/uploads/qr/ec57221b-6b4c-4350-9168-1ebddb6a826d.png"
+  ],
+  "aa3c18e6576551f72b8100f8b648abfddc16401ae7123a93c906652eeee37ab3.db": [
+    "backups/20261006-before-repair/dev.db"
+  ],
+  "fdab574f6e6cc5ba16884f9333ebcd9e235fe78fbdbccdaf27a7ac0c38d52a38.db": [
+    "backups/20261006-before-repair/at-activation.db"
+  ],
+  "c7ac828a1df76a538e74c6efe5325bd9ba451190dc8298edd2f257b63ebe9f45.db": [
+    "backups/20261007-before-github/dev.db"
+  ],
+  "6f63472a77086e733de1444e7d81d23c3970faa1150c63e5b8fb22219c489a87.db": [
+    "backups/20261007-before-multi/dev.db"
+  ]
+}
