@@ -1,5 +1,13 @@
 [
   {
+    "id": "5db62c3b-f72f-4de5-ab50-9a5dc206e920",
+    "chatId": "-1002594455088",
+    "title": "01-AT -25 ota -onalar guruhi",
+    "addedAt": "2026-10-10T04:17:28.193Z",
+    "active": true,
+    "addedByTelegramIds": "[]"
+  },
+  {
     "id": "00a32b9d-9f91-4423-83af-7c7640728d86",
     "chatId": "-1004394720901",
     "title": "01-BN-2026",
@@ -24,10 +32,66 @@
     "addedByTelegramIds": "[\"1052574889\"]"
   },
   {
+    "id": "88099bd1-308d-446e-a7a3-d42f56658c72",
+    "chatId": "-1004471031979",
+    "title": "01-RA-26",
+    "addedAt": "2026-10-23T19:04:29.529Z",
+    "active": true,
+    "addedByTelegramIds": "[]"
+  },
+  {
+    "id": "f3c2cec5-8bc7-461a-9741-00b1ba40c86f",
+    "chatId": "-5047170121",
+    "title": "02-BN guruh ota-onalari",
+    "addedAt": "2026-10-23T05:40:41.955Z",
+    "active": true,
+    "addedByTelegramIds": "[]"
+  },
+  {
+    "id": "2a9c4b31-2911-4f56-a17e-36d7c3301917",
+    "chatId": "-1004488835926",
+    "title": "02-GT-26 (dual)",
+    "addedAt": "2026-10-14T09:06:43.320Z",
+    "active": true,
+    "addedByTelegramIds": "[]"
+  },
+  {
+    "id": "cf7eed46-aea3-4647-bc66-5514d1c2752b",
+    "chatId": "-1003211907894",
+    "title": "02-RA-25 ota-onalar guruhi",
+    "addedAt": "2026-10-14T10:21:13.183Z",
+    "active": true,
+    "addedByTelegramIds": "[]"
+  },
+  {
+    "id": "b79b990d-fa11-4ac2-8468-bac0e49291fc",
+    "chatId": "-1004383322868",
+    "title": "IT Dual",
+    "addedAt": "2026-10-15T05:52:24.952Z",
+    "active": true,
+    "addedByTelegramIds": "[]"
+  },
+  {
+    "id": "c574d823-ac16-4a1e-b2b6-093885880642",
+    "chatId": "-1003384385457",
+    "title": "Ota onalar GT 2026",
+    "addedAt": "2026-10-07T13:50:17.027Z",
+    "active": true,
+    "addedByTelegramIds": "[]"
+  },
+  {
     "id": "5fea075e-705a-41b0-9d47-7903cd6185e7",
     "chatId": "-1002929233994",
     "title": "b/01-AT-25",
     "addedAt": "2026-10-06T19:21:59.035Z",
+    "active": true,
+    "addedByTelegramIds": "[]"
+  },
+  {
+    "id": "567047e3-1d0f-447b-a735-52e9c90fac2b",
+    "chatId": "-1003091756006",
+    "title": "b/01-BN-25",
+    "addedAt": "2026-10-15T10:44:16.773Z",
     "active": true,
     "addedByTelegramIds": "[]"
   },
@@ -38,6 +102,22 @@
     "addedAt": "2026-10-07T07:24:56.655Z",
     "active": true,
     "addedByTelegramIds": "[\"1052574889\"]"
+  },
+  {
+    "id": "227593c7-2dfb-432a-a1ff-7675903bef56",
+    "chatId": "-1003041518535",
+    "title": "b/02-BN-25",
+    "addedAt": "2026-10-10T04:07:06.932Z",
+    "active": true,
+    "addedByTelegramIds": "[]"
+  },
+  {
+    "id": "05648cdf-6ed8-44dc-942e-2ec4eca6dbbd",
+    "chatId": "-1002945696956",
+    "title": "b/02-RA-25",
+    "addedAt": "2026-10-12T04:10:57.225Z",
+    "active": true,
+    "addedByTelegramIds": "[]"
   },
   {
     "id": "e539cad1-9191-4f00-832b-0fa533079050",
