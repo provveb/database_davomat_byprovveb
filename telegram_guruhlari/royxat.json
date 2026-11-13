@@ -64,6 +64,14 @@
     "addedByTelegramIds": "[\"5466831009\"]"
   },
   {
+    "id": "8b864c10-a576-4b7b-970d-ae4c18930dc3",
+    "chatId": "-5061786708",
+    "title": "02-AT-25 Ota-onalar guruhi",
+    "addedAt": "2026-11-13T08:36:25.637Z",
+    "active": true,
+    "addedByTelegramIds": "[\"7821990502\"]"
+  },
+  {
     "id": "25e80922-3f88-49dd-a740-4a3aa650b9a4",
     "chatId": "-5446506349",
     "title": "02-BN",
@@ -150,6 +158,14 @@
     "addedAt": "2026-10-07T07:24:56.655Z",
     "active": true,
     "addedByTelegramIds": "[\"1052574889\"]"
+  },
+  {
+    "id": "d533e388-3363-408f-9f0d-821ac51a4ca2",
+    "chatId": "-1002514220018",
+    "title": "b/02-AT-25",
+    "addedAt": "2026-11-13T08:36:11.408Z",
+    "active": true,
+    "addedByTelegramIds": "[\"7821990502\"]"
   },
   {
     "id": "227593c7-2dfb-432a-a1ff-7675903bef56",
