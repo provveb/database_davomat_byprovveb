@@ -1,6 +1,6 @@
 {
-  "sana": "2026-11-20T05:50:16.510Z",
-  "fan": "Bank ishini tashkil etish(o'quv amaliyot)",
+  "sana": "2026-11-20T07:46:02.200Z",
+  "fan": "Bank ishini tashkil etish",
   "oqituvchi": "Abdurakhim Istamov",
   "davomat": [
     {
@@ -45,7 +45,7 @@
     },
     {
       "ismFamiliya": "Murodillayev Amirbek",
-      "holat": "BOR"
+      "holat": "YOQ"
     },
     {
       "ismFamiliya": "NAJMIDDINOV JAVLON RUSTAMOVICH",
@@ -57,7 +57,7 @@
     },
     {
       "ismFamiliya": "Azimov Firdavs Furqat o'g'li",
-      "holat": "BOR"
+      "holat": "YOQ"
     },
     {
       "ismFamiliya": "Pirmamadova Shodiyona",
@@ -89,7 +89,7 @@
     },
     {
       "ismFamiliya": "SALIMOV SAIDJON MIZROBOVICH",
-      "holat": "YOQ"
+      "holat": "BOR"
     },
     {
       "ismFamiliya": "Raxmanov Muzaffar Hikmatovich",
@@ -125,7 +125,7 @@
     },
     {
       "ismFamiliya": "Niyazov Sarvar Samandarovich",
-      "holat": "BOR"
+      "holat": "YOQ"
     },
     {
       "ismFamiliya": "YULDOSHMURODOV JASURBEK SHARIF O‘G‘LI",
@@ -149,7 +149,7 @@
     },
     {
       "ismFamiliya": "Jamoliddinov Asliddin Askar o'g'li",
-      "holat": "BOR"
+      "holat": "YOQ"
     },
     {
       "ismFamiliya": "Safarova Rushana",
