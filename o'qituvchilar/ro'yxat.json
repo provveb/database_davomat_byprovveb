@@ -4,14 +4,14 @@
     "ismFamiliya": "Salomat Jo'rayeva ",
     "fanNomi": "Informatika",
     "telefon": "+998977360597",
-    "rasmFileId": "https://raw.githubusercontent.com/provveb/database_davomat_byprovveb/main/Images/Oqituvchilar/1790319044050.png"
+    "rasmFileId": "https://raw.githubusercontent.com/provveb/database_davomat_byprovveb/main/Images/Oqituvchilar/1790319044050.png?v=db5e9dd9ca6f46f93ed93873b7f8f1f200136953"
   },
   {
     "telegramId": "8468105441",
     "ismFamiliya": "Xolmurodov Bobur",
     "fanNomi": "Ingliz Tili",
     "telefon": "+998953433435",
-    "rasmFileId": "https://raw.githubusercontent.com/provveb/database_davomat_byprovveb/main/Images/Oqituvchilar/1790352101604.png"
+    "rasmFileId": "https://raw.githubusercontent.com/provveb/database_davomat_byprovveb/main/Images/Oqituvchilar/1790352101604.png?v=c3d820a3535d57bc1957f865e2380c320faa4e14"
   },
   {
     "telegramId": "6791735260",
@@ -32,7 +32,7 @@
     "ismFamiliya": "Шахина Шухратовна",
     "fanNomi": "Ingliz Tili",
     "telefon": "+998500541528",
-    "rasmFileId": "https://raw.githubusercontent.com/provveb/database_davomat_byprovveb/main/Images/Oqituvchilar/1790602258180.png"
+    "rasmFileId": "https://raw.githubusercontent.com/provveb/database_davomat_byprovveb/main/Images/Oqituvchilar/1790602258180.png?v=e54156bea3f363e803866999aa6a07b07b708e90"
   },
   {
     "telegramId": "1778201264",
@@ -165,6 +165,83 @@
     "ismFamiliya": "test",
     "fanNomi": "test fan",
     "telefon": "",
+    "rasmFileId": ""
+  },
+  {
+    "telegramId": "1077354997",
+    "ismFamiliya": "Murodova Malika",
+    "fanNomi": "Iqtisod",
+    "telefon": "+998900841898",
+    "rasmFileId": ""
+  },
+  {
+    "telegramId": "8341172865",
+    "ismFamiliya": "Axmedov Bobirjon",
+    "fanNomi": "Biznes asoslari",
+    "telefon": "+998993510311",
+    "rasmFileId": ""
+  },
+  {
+    "telegramId": "1052574889",
+    "ismFamiliya": "Qobilova Dilshoda",
+    "fanNomi": "Ona tili va Adabiyot",
+    "telefon": "+998918400613",
+    "rasmFileId": ""
+  },
+  {
+    "telegramId": "781228734",
+    "ismFamiliya": "Obloqulova Gulbahor",
+    "fanNomi": "Ingliz tili",
+    "telefon": "+998914053512",
+    "rasmFileId": ""
+  },
+  {
+    "telegramId": "5900450101",
+    "ismFamiliya": "Ikromova Go'zal",
+    "fanNomi": "Fizika",
+    "telefon": "+998900833634",
+    "rasmFileId": ""
+  },
+  {
+    "telegramId": "1299583541",
+    "ismFamiliya": "Najmiddinova Gulnoza",
+    "fanNomi": "Ingliz tili",
+    "telefon": "+998914492225",
+    "rasmFileId": ""
+  },
+  {
+    "telegramId": "673048403",
+    "ismFamiliya": "Ismatov Nematullo",
+    "fanNomi": "Jismoniy tarbiya",
+    "telefon": "+998936239960",
+    "rasmFileId": ""
+  },
+  {
+    "telegramId": "7570364138",
+    "ismFamiliya": "Qamarova Nigora Fayzulloyevna",
+    "fanNomi": "Bank ishi asoslari",
+    "telefon": "+998978535383",
+    "rasmFileId": ""
+  },
+  {
+    "telegramId": "1006429985",
+    "ismFamiliya": "Saidova Maftuna",
+    "fanNomi": "Ingliz tili",
+    "telefon": "+998905134536",
+    "rasmFileId": ""
+  },
+  {
+    "telegramId": "810514719",
+    "ismFamiliya": "Avliyakulov Mirshod Nodir o'g'li",
+    "fanNomi": "informatika",
+    "telefon": "+998945022532",
+    "rasmFileId": "https://raw.githubusercontent.com/provveb/database_davomat_byprovveb/main/images/teachers/7e190312-60d7-4431-8c50-0a232268a3c9.jpeg"
+  },
+  {
+    "telegramId": "7981092058",
+    "ismFamiliya": "Bozorov Azim",
+    "fanNomi": "Chaqiruvga qadar boshlang'ich tayyorgarlik",
+    "telefon": "+998993364115",
     "rasmFileId": ""
   }
 ]
