@@ -1,11 +1,11 @@
 {
-  "sana": "2026-11-20T04:02:25.912Z",
-  "fan": "Banklarda kassa ishi",
+  "sana": "2026-11-20T05:50:16.510Z",
+  "fan": "Bank ishini tashkil etish(o'quv amaliyot)",
   "oqituvchi": "Abdurakhim Istamov",
   "davomat": [
     {
       "ismFamiliya": "Erkinova Shaxina Aliyorovna",
-      "holat": "YOQ"
+      "holat": "BOR"
     },
     {
       "ismFamiliya": "Rustamova Rushana",
@@ -25,11 +25,11 @@
     },
     {
       "ismFamiliya": "Alloqulov Asadbek Jo'raqulovich",
-      "holat": "YOQ"
+      "holat": "BOR"
     },
     {
       "ismFamiliya": "BOZOROVA GO‘ZAL JURABEK QIZI",
-      "holat": "YOQ"
+      "holat": "BOR"
     },
     {
       "ismFamiliya": "G‘ULOMOV SULTONALI ALLAYOR O‘G‘LI",
@@ -53,11 +53,11 @@
     },
     {
       "ismFamiliya": "OTAMURODOV JA’FARBEK JO‘RABEKOVICH",
-      "holat": "BOR"
+      "holat": "YOQ"
     },
     {
       "ismFamiliya": "Azimov Firdavs Furqat o'g'li",
-      "holat": "YOQ"
+      "holat": "BOR"
     },
     {
       "ismFamiliya": "Pirmamadova Shodiyona",
@@ -73,7 +73,7 @@
     },
     {
       "ismFamiliya": "KARIMOV SAIDJON ULUG‘BEKOVICH",
-      "holat": "BOR"
+      "holat": "YOQ"
     },
     {
       "ismFamiliya": "HAMROYEV AMIRBEK SHARIFOVICH",
@@ -89,7 +89,7 @@
     },
     {
       "ismFamiliya": "SALIMOV SAIDJON MIZROBOVICH",
-      "holat": "BOR"
+      "holat": "YOQ"
     },
     {
       "ismFamiliya": "Raxmanov Muzaffar Hikmatovich",
@@ -125,7 +125,7 @@
     },
     {
       "ismFamiliya": "Niyazov Sarvar Samandarovich",
-      "holat": "YOQ"
+      "holat": "BOR"
     },
     {
       "ismFamiliya": "YULDOSHMURODOV JASURBEK SHARIF O‘G‘LI",
@@ -137,7 +137,7 @@
     },
     {
       "ismFamiliya": "SADRIDDINOV MIRZOJON ULUG‘BEK O‘G‘LI",
-      "holat": "YOQ"
+      "holat": "BOR"
     },
     {
       "ismFamiliya": "Anvarov Sanjarbek Sarvarovich",
